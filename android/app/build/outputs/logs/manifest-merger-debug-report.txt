@@ -1,0 +1,232 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /Users/tuantq/TestApp/RNStarterApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/tuantq/TestApp/RNStarterApp/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/tuantq/TestApp/RNStarterApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/1c5264ac4f13cea2e06676baa7b8529c/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/7125af31d5856856ebd456be263200e8/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/0a510bd21c477cf1f476d59b1b005051/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/b1bca36c437c6021ca4802be559cc313/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/0ed5864d1ab683a6f950e44d36daae89/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/522e613a49f03e8f7aae1b49f767362e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/4c102ee2b54b1208d3b260f46d55dbba/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/9a19a7a8f86d192d4b7e6ff317bc961c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/fdc3f71d8991f0c2fb8e76645dbe6bfa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/cd1aeecf1153b9605ab524dc17010fbf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/2a3f8739a0d49c13ae9777ae142ed59e/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/8e4590e496a831ac780dde487fff53d9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/c24557b65330c9be6b60bf0420f07108/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/6874862f40abc860f238d1599ec87dbe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/9c0f33e5a76af05768a22f9393c63b1d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/9b4e4a7e9d78c5bf494617e5e517dabc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/885cb0c992042f9732a8605785ed4184/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/c9ae5d71fa5baaeb9cfae880437bbeed/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/c0c69f6b33e15b21e6639acf67d0bfdc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/2e425a1ace804d3f53e146e7cc052f13/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/460cd24bf820f6a2a282ae4fa2b3da26/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/9d2594a1c7e0acb3ba36d0957bdb2d6f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/26085d66da8170f5075fe6bd04cc8983/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/a6fa6fa5256239af94f59996dd1accdb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/8eb66d273dfbd229d450ce59b0b130c7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/65ab2440f59f5708536cb2aadf099056/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/0c464c49738a56429411f3d938348944/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/cf3f4566e69b3b3ba61788224a56f3ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/6c019e7ce919ad52b45c461888dacf3f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/9bf87fcabce3b5c677e0f8c8057356f3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/3f5595ad951f43b8a073e6b61e294619/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/9ef911112db460021ef8ca6e43dc73bd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/e34917b8080be45bef415b291f4b880d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/b31d3ca146399c578edce4d9908a5076/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/840177e3ebe605a7c3a9ca7d92674e70/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/bda3c15a80eb8d933232c673dbccc305/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/98b84b967e05623a02a29c8858a42015/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/d32dca965e202238a5ef4b1518358b87/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/1c5264ac4f13cea2e06676baa7b8529c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/1c5264ac4f13cea2e06676baa7b8529c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/2a3f8739a0d49c13ae9777ae142ed59e/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/2a3f8739a0d49c13ae9777ae142ed59e/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/65ab2440f59f5708536cb2aadf099056/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/65ab2440f59f5708536cb2aadf099056/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/0c464c49738a56429411f3d938348944/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/0c464c49738a56429411f3d938348944/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/65ab2440f59f5708536cb2aadf099056/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.rnstarterapp.MainActivity
+ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/tuantq/TestApp/RNStarterApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/tuantq/TestApp/RNStarterApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/tuantq/TestApp/RNStarterApp/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/tuantq/TestApp/RNStarterApp/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/tuantq/TestApp/RNStarterApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/tuantq/TestApp/RNStarterApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/1c5264ac4f13cea2e06676baa7b8529c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/1c5264ac4f13cea2e06676baa7b8529c/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/7125af31d5856856ebd456be263200e8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/7125af31d5856856ebd456be263200e8/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/0a510bd21c477cf1f476d59b1b005051/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/0a510bd21c477cf1f476d59b1b005051/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/b1bca36c437c6021ca4802be559cc313/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/b1bca36c437c6021ca4802be559cc313/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/0ed5864d1ab683a6f950e44d36daae89/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/0ed5864d1ab683a6f950e44d36daae89/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/522e613a49f03e8f7aae1b49f767362e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/522e613a49f03e8f7aae1b49f767362e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/4c102ee2b54b1208d3b260f46d55dbba/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/4c102ee2b54b1208d3b260f46d55dbba/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/9a19a7a8f86d192d4b7e6ff317bc961c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/9a19a7a8f86d192d4b7e6ff317bc961c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/fdc3f71d8991f0c2fb8e76645dbe6bfa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/fdc3f71d8991f0c2fb8e76645dbe6bfa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/cd1aeecf1153b9605ab524dc17010fbf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/cd1aeecf1153b9605ab524dc17010fbf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/2a3f8739a0d49c13ae9777ae142ed59e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/2a3f8739a0d49c13ae9777ae142ed59e/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/8e4590e496a831ac780dde487fff53d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/8e4590e496a831ac780dde487fff53d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/c24557b65330c9be6b60bf0420f07108/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/c24557b65330c9be6b60bf0420f07108/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/6874862f40abc860f238d1599ec87dbe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/6874862f40abc860f238d1599ec87dbe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/9c0f33e5a76af05768a22f9393c63b1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/9c0f33e5a76af05768a22f9393c63b1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/9b4e4a7e9d78c5bf494617e5e517dabc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/9b4e4a7e9d78c5bf494617e5e517dabc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/885cb0c992042f9732a8605785ed4184/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/885cb0c992042f9732a8605785ed4184/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/c9ae5d71fa5baaeb9cfae880437bbeed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/c9ae5d71fa5baaeb9cfae880437bbeed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/c0c69f6b33e15b21e6639acf67d0bfdc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/c0c69f6b33e15b21e6639acf67d0bfdc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/2e425a1ace804d3f53e146e7cc052f13/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/2e425a1ace804d3f53e146e7cc052f13/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/460cd24bf820f6a2a282ae4fa2b3da26/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/460cd24bf820f6a2a282ae4fa2b3da26/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/9d2594a1c7e0acb3ba36d0957bdb2d6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/9d2594a1c7e0acb3ba36d0957bdb2d6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/26085d66da8170f5075fe6bd04cc8983/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/26085d66da8170f5075fe6bd04cc8983/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/a6fa6fa5256239af94f59996dd1accdb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/a6fa6fa5256239af94f59996dd1accdb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/8eb66d273dfbd229d450ce59b0b130c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/8eb66d273dfbd229d450ce59b0b130c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/65ab2440f59f5708536cb2aadf099056/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/65ab2440f59f5708536cb2aadf099056/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/0c464c49738a56429411f3d938348944/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/0c464c49738a56429411f3d938348944/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/cf3f4566e69b3b3ba61788224a56f3ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/cf3f4566e69b3b3ba61788224a56f3ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/6c019e7ce919ad52b45c461888dacf3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/6c019e7ce919ad52b45c461888dacf3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/9bf87fcabce3b5c677e0f8c8057356f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/9bf87fcabce3b5c677e0f8c8057356f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/3f5595ad951f43b8a073e6b61e294619/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/3f5595ad951f43b8a073e6b61e294619/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/9ef911112db460021ef8ca6e43dc73bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/9ef911112db460021ef8ca6e43dc73bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/e34917b8080be45bef415b291f4b880d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/e34917b8080be45bef415b291f4b880d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/b31d3ca146399c578edce4d9908a5076/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/b31d3ca146399c578edce4d9908a5076/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/840177e3ebe605a7c3a9ca7d92674e70/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/840177e3ebe605a7c3a9ca7d92674e70/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/bda3c15a80eb8d933232c673dbccc305/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/bda3c15a80eb8d933232c673dbccc305/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/98b84b967e05623a02a29c8858a42015/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/98b84b967e05623a02a29c8858a42015/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/d32dca965e202238a5ef4b1518358b87/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/tuantq/.gradle/caches/transforms-2/files-2.1/d32dca965e202238a5ef4b1518358b87/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/tuantq/TestApp/RNStarterApp/android/app/src/debug/AndroidManifest.xml:5:22-75
